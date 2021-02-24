@@ -1,3 +1,7 @@
+scripts need to be in /tmp  
+  
+  
+  
 read the recomended commands it will help
 
 understand what you need to do

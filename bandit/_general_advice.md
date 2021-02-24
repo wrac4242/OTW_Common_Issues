@@ -20,3 +20,6 @@ if that doesnt work, however stupid it feels, explain the problem to something
 even a rubber duck
 
 if you are really stuck ask on the discord/irc server
+  
+  
+quote: "Take a break" - Wrac

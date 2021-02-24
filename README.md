@@ -3,4 +3,5 @@ common issues for the OTW challenges
 https://overthewire.org/wargames/
   
   
-at the moment a basic system to allow expansion, and processing
+at the moment a basic system to allow expansion, and processing  
+Prioritise the ones that requre the most help

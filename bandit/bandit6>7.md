@@ -5,3 +5,6 @@ no ls args needed
   
 if you use that command, ignore the "Permission Denied"  
 maybe there is a way to filter them out with a recomended command?  
+  
+  
+quote: "Hello IT, have you tried turning it off and on again" - The IT Crowd    

@@ -8,4 +8,4 @@ Prioritise the ones that requre the most help
   
 each file needs to end in a quote  
   
-quote: "The Commander stands for the virtues of wisdom, sincerely, benevolence, courage and strictness"
+quote: "The Commander stands for the virtues of wisdom, sincerely, benevolence, courage and strictness" - Sun Tzu
